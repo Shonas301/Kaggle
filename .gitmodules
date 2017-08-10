@@ -1,0 +1,3 @@
+[submodule "TitanicKaggle"]
+	path = TitanicKaggle
+	url = https://github.com/shonas301/TitanicKaggle
